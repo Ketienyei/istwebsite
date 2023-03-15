@@ -1,3 +1,3 @@
 # istwebsite
 # school website using html and css
-Updating 
+Update
